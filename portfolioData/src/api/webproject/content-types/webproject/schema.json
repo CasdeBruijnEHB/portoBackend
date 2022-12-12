@@ -1,0 +1,31 @@
+{
+  "kind": "collectionType",
+  "collectionName": "webprojects",
+  "info": {
+    "singularName": "webproject",
+    "pluralName": "webprojects",
+    "displayName": "Webproject"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "imagesite": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    },
+    "link": {
+      "type": "string"
+    }
+  }
+}
