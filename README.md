@@ -1,5 +1,7 @@
 # Portfolio Back-end
-https://github.com/CasdeBruijnEHB/portfolioFrontEnd
+www.casdebruijn.be
+
+Front-end : https://github.com/CasdeBruijnEHB/portfolioFrontEnd
 
 De back-end van mijn portfolio is gemaakt met Strapi. Het back-end gedeelte moet nog gedeployed worden, dus momenteel kan je alleen het volledig portfolio bekijken als je Strapi runt in de backend.
 
